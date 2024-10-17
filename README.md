@@ -28,29 +28,29 @@
 </div>
 
 <div style="display:flex;">
-<img src="./preview/7.png" style="width:32%;">
-<img src="./preview/8.png" style="width:32%;">
+<img src="./preview/7.png" style="width:49%">
+<img src="./preview/8.png" style="width:49%">
 </div>
 
 <div style="display:flex;">
-<img src="./preview/9.png" style="width:32%;">
-<img src="./preview/10.png" style="width:32%;">
+<img src="./preview/9.png" style="width:49%">
+<img src="./preview/10.png" style="width:49%">
 </div>
 
 ### 2. 后台管理（管理端）
 <div style="display:flex;">
-<img src="./preview/11.png" style="width:32%;">
-<img src="./preview/12.png" style="width:32%;">
+<img src="./preview/11.png" style="width:49%">
+<img src="./preview/12.png" style="width:49%">
 </div>
 
 <div style="display:flex;">
-<img src="./preview/13.png" style="width:32%;">
-<img src="./preview/14.png" style="width:32%;">
+<img src="./preview/13.png" style="width:49%">
+<img src="./preview/14.png" style="width:49%">
 </div>
 
 <div style="display:flex;">
-<img src="./preview/15.png" style="width:32%;">
-<img src="./preview/16.png" style="width:32%;">
+<img src="./preview/15.png" style="width:49%">
+<img src="./preview/16.png" style="width:49%">
 </div>
 
 ## 四、🚀 咨询我们
