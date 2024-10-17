@@ -6,12 +6,12 @@
  2. 管理员：用户管理，商品管理，订单管理，用户管理，优惠券管理等等
 
 ## 二、技术栈
-1. 前端：vue框架，微信原生小程序
+1. 前端：vue框架
 2. 后端：nodejs express框架
 3. 数据库：mysql
 
 ## 三、效果展示  
-### 1. 用户端（小程序）
+### 1. 用户端
 <div style="display:flex;">
 <img src="./preview/1.png" style="width:49%">
 <img src="./preview/2.png" style="width:49%">
